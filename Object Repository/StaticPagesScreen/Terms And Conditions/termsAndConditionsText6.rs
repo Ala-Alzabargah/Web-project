@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>termsAndConditionsText6</name>
+   <tag></tag>
+   <elementGuidId>2e1cd501-b67a-45fe-87a1-0d35ec4ab2b5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;htmlContaner&quot;]/div/section/div/div/div[2]/ol/li[13]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;htmlContaner&quot;]/div/section/div/div/div[2]/ol/li[13]/p</value>
+   </webElementProperties>
+</WebElementEntity>

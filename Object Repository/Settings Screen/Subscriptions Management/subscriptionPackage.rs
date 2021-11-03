@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>subscriptionPackage</name>
+   <tag></tag>
+   <elementGuidId>67d34d56-4b6e-4323-84cf-91ea31fea113</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[contains(@class,&quot;_subscriptionPackageContainer__&quot;)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[contains(@class,&quot;_subscriptionPackageContainer__&quot;)]</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>sliderElement</name>
+   <tag></tag>
+   <elementGuidId>ad9dbec4-f066-4226-81ad-07d1d6a6aadf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[contains(@class,'LandscapeItem_outerContainer')])</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[contains(@class,'LandscapeItem_outerContainer')])</value>
+   </webElementProperties>
+</WebElementEntity>

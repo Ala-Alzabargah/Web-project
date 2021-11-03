@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "84D73F5C1A611FAE1BFAA346A483F092",
+  "keywordClasses": [
+    {
+      "name": "shahid.utils.ReadSpreadsheet",
+      "keywordMethods": [
+        {
+          "name": "getSpreadSheetRecords",
+          "parameters": [
+            {
+              "name": "range",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>assetTitle</name>
+   <tag></tag>
+   <elementGuidId>226cd35a-bffa-4eac-92bb-416796fe7b71</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//img[contains(@class,&quot;logoShowPage_title-image&quot;)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//img[contains(@class,&quot;logoShowPage_title-image&quot;)]</value>
+   </webElementProperties>
+</WebElementEntity>

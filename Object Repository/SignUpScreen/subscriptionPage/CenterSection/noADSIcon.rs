@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>noADsIcon</name>
+   <tag></tag>
+   <elementGuidId>02cbd9a5-4b6b-4ab5-8d27-071add8d421c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//img[contains(@alt,&quot;noAds_widget_header&quot;)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//img[contains(@alt,&quot;noAds_widget_header&quot;)]</value>
+   </webElementProperties>
+</WebElementEntity>

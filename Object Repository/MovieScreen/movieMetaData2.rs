@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>movieMetaData2</name>
+   <tag></tag>
+   <elementGuidId>2101c641-2cc1-41cc-8f8d-ceae0bab9b21</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class='_2F22OhnAPp9u1z0gVafnoo']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class='_2F22OhnAPp9u1z0gVafnoo']</value>
+   </webElementProperties>
+</WebElementEntity>

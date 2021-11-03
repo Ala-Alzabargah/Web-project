@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>advertismentForShwPage</name>
+   <tag></tag>
+   <elementGuidId>bbbf7ae5-de4d-4e08-a1f7-f7f4ffcb26bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//video[@title=&quot;Advertisement&quot;])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//video[@title=&quot;Advertisement&quot;])[1]</value>
+   </webElementProperties>
+</WebElementEntity>

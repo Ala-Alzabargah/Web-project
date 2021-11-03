@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>emptyCaptcha</name>
+   <tag></tag>
+   <elementGuidId>9e77bdf9-2135-4f5e-aa5e-ecb1ee73bcf0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;shahid-widget&quot;]/div/app-login/div/div[2]/div/app-normal-login/div/form/app-cpatcha/form/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;shahid-widget&quot;]/div/app-login/div/div[2]/div/app-normal-login/div/form/app-cpatcha/form/div/p</value>
+   </webElementProperties>
+</WebElementEntity>

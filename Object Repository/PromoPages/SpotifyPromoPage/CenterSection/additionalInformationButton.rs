@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>additionalInformationButton</name>
+   <tag></tag>
+   <elementGuidId>2d09ad13-d054-4482-ac14-bd0cce5623f2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//section[contains(@id,&quot;termsAndConditions_section&quot;)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//section[contains(@id,&quot;termsAndConditions_section&quot;)]</value>
+   </webElementProperties>
+</WebElementEntity>

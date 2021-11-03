@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>shahid-SpotifyIcon</name>
+   <tag></tag>
+   <elementGuidId>cd49e25f-814a-417e-95da-7f5bebddd732</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//img[@id=&quot;spotify_logo_desktop&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//img[@id=&quot;spotify_logo_desktop&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

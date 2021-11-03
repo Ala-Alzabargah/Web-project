@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>facebookLoginButton</name>
+   <tag></tag>
+   <elementGuidId>3dfc7c2e-263f-4c0f-8981-5d3135c400c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//button[contains(@type,&quot;button&quot;)])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//button[contains(@type,&quot;button&quot;)])[1]</value>
+   </webElementProperties>
+</WebElementEntity>

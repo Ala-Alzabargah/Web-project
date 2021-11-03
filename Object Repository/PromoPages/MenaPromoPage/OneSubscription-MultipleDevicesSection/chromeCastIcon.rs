@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>chromeCastIcon</name>
+   <tag></tag>
+   <elementGuidId>808dfb4d-4621-4567-860a-f1ff25bc5d4d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//img[contains(@src,'chromecast-devices-icon.svg')])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//img[contains(@src,'chromecast-devices-icon.svg')])[1]</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>myListLink</name>
+   <tag></tag>
+   <elementGuidId>0a205623-8efa-424e-a383-af63a6bfe7e3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[@class='_1ZBFue7VModJTCOy5_yAOu'])[7]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[@class='_1ZBFue7VModJTCOy5_yAOu'])[7]</value>
+   </webElementProperties>
+</WebElementEntity>

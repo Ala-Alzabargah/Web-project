@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>androidIcon</name>
+   <tag></tag>
+   <elementGuidId>2e9a9cbf-e2d6-4b43-a523-0d3e8558280f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//img[contains(@src,'android-devices-icon.svg')])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//img[contains(@src,'android-devices-icon.svg')])[1]</value>
+   </webElementProperties>
+</WebElementEntity>

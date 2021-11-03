@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This allows you to execute all test cases</description>
+   <name>ExecuteAutomation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4787fff1-3965-4c2c-ab8c-ca35761deb04</testCaseGuid>
+</TestCaseEntity>

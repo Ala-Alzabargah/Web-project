@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>expirationMonth</name>
+   <tag></tag>
+   <elementGuidId>d0726c22-3edd-4fa4-8b1a-f3f5e7012e25</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//select[@id='ExpirationMonth-input-0'])</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//select[@id='ExpirationMonth-input-0'])</value>
+   </webElementProperties>
+</WebElementEntity>

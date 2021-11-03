@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>continueWatchingIcon</name>
+   <tag></tag>
+   <elementGuidId>3a22b95b-9388-44b6-a049-cec6941bc336</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//img[contains(@alt,&quot;continueWatchingIcon&quot;)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//img[contains(@alt,&quot;continueWatchingIcon&quot;)]</value>
+   </webElementProperties>
+</WebElementEntity>

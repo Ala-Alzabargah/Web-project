@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>episodeNumber</name>
+   <tag></tag>
+   <elementGuidId>1afe51e9-ee06-43e8-b657-69c16b0f9d1f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[@class='_1dRnnEI_fQSM2_Lw7XBVro'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[@class='_1dRnnEI_fQSM2_Lw7XBVro'])[2]</value>
+   </webElementProperties>
+</WebElementEntity>

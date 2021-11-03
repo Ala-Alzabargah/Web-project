@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>showMetaData</name>
+   <tag></tag>
+   <elementGuidId>0f755c2f-0699-4810-a407-3a3fdd4b53de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;appRoot&quot;]//div[1]//div[2]/div[1]/div[2]/div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;appRoot&quot;]//div[1]//div[2]/div[1]/div[2]/div[1]</value>
+   </webElementProperties>
+</WebElementEntity>

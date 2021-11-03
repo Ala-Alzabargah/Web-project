@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>emptyMessageContent</name>
+   <tag></tag>
+   <elementGuidId>17087348-40d5-4bbf-b7d7-330a6f7d1dfa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;contactUsForm&quot;]/div/div[6]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;contactUsForm&quot;]/div/div[6]/div/span</value>
+   </webElementProperties>
+</WebElementEntity>

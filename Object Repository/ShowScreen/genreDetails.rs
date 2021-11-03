@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>genreDetails</name>
+   <tag></tag>
+   <elementGuidId>da1b3b54-c970-4b06-be96-250fd591d429</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//span[contains(@class,'ProductInformation_genres')])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//span[contains(@class,'ProductInformation_genres')])[1]</value>
+   </webElementProperties>
+</WebElementEntity>

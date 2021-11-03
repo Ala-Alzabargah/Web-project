@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>programsText</name>
+   <tag></tag>
+   <elementGuidId>5512e14a-a45b-4ca9-b820-fe573b73209c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//h2[@class='_2cj__RwSgl5hxqJzjfFpzb'])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//h2[@class='_2cj__RwSgl5hxqJzjfFpzb'])[1]</value>
+   </webElementProperties>
+</WebElementEntity>

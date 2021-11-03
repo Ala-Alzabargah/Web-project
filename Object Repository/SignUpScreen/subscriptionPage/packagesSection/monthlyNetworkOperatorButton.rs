@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>monthlyNetworkOperatorButton</name>
+   <tag></tag>
+   <elementGuidId>aaf08300-1a03-46e6-84fd-fdf915048e42</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[@data-classname=&quot;payment-button-wrap&quot;])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[@data-classname=&quot;payment-button-wrap&quot;])[2]</value>
+   </webElementProperties>
+</WebElementEntity>

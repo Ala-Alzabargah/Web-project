@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>mainSliderText</name>
+   <tag></tag>
+   <elementGuidId>8ef0a3dd-d740-4789-8c77-407a52a23acf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;appRoot&quot;]/div/div/div[1]/div/div/div/div/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;appRoot&quot;]/div/div/div[1]/div/div/div/div/h1</value>
+   </webElementProperties>
+</WebElementEntity>

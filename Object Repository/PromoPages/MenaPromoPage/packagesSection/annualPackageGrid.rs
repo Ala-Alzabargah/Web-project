@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>annualPackageGrid</name>
+   <tag></tag>
+   <elementGuidId>ced608e2-5523-4e35-a78a-80cf73a4437f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[@class='_26nmETSoDyF7gR-5cZ3dXe'])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[@class='_26nmETSoDyF7gR-5cZ3dXe'])[1]</value>
+   </webElementProperties>
+</WebElementEntity>

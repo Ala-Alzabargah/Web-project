@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "4C76AAFB938148EA2B302AE41C39075A",
+  "keywordClasses": [
+    {
+      "name": "common.test",
+      "keywordMethods": [
+        {
+          "name": "openNewWindow",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

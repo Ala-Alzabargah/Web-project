@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>annualCCButton</name>
+   <tag></tag>
+   <elementGuidId>25ae1d7f-2748-4e80-822d-bc3e220bd6e2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[@data-classname=&quot;payment-button-wrap&quot;])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[@data-classname=&quot;payment-button-wrap&quot;])[3]</value>
+   </webElementProperties>
+</WebElementEntity>

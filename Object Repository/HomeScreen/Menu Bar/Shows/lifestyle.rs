@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>lifestyle</name>
+   <tag></tag>
+   <elementGuidId>e6352145-a52c-41ea-9edd-4afde6786603</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[contains(@href,'/ar/shows/أسلوب-الحياة?genre=7867')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[contains(@href,'/ar/shows/أسلوب-الحياة?genre=7867')]</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>MyListLink</name>
+   <tag></tag>
+   <elementGuidId>4f5d96c4-7bdb-4c94-969d-0170cfe7e161</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mainContainer']/div[2]/header/div/div[2]/span/div/div[2]/div[3]/div/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>قائمتي</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainContainer&quot;)/div[@class=&quot;xeN0kdsLg9h3ooNcc_d5m&quot;]/header[@class=&quot;_321IHS-_KruVv3UhlqNmy3 _2Ot59GewVsrIG3WBm927hF&quot;]/div[@class=&quot;_2bIdoX5jLyhxWbfE6FnmoO&quot;]/div[@class=&quot;_3mUN66pKTm--rxYiLr5MTO&quot;]/span[@class=&quot;_3Ge2dzNUFFjPo9vX6_sNUa ICwrg1u9zHQVMdEk1K4T5&quot;]/div[@class=&quot;_3J54TvZLp5-KkbZY9N-iT6&quot;]/div[@class=&quot;_28fEORBLHgd1MqP85PlRFU&quot;]/div[@class=&quot;_1XLNLE8SstnB4AsQTYPUi5&quot;]/div[@class=&quot;_1ZBFue7VModJTCOy5_yAOu true&quot;]/a[1]/span[1]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mainContainer']/div[2]/header/div/div[2]/span/div/div[2]/div[3]/div/a/span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='جرّب شاهد VIP'])[1]/preceding::span[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='كوميديا،'])[1]/preceding::span[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='قائمتي']/parent::*</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div/a/span</value>
+   </webElementXpaths>
+</WebElementEntity>

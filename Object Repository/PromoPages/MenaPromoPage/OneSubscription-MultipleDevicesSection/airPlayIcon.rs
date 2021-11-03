@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>airPlayIcon</name>
+   <tag></tag>
+   <elementGuidId>5f6409f3-3964-41fe-b57e-910bd3271d54</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//img[contains(@src,'airplay-devices-icon.svg')])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//img[contains(@src,'airplay-devices-icon.svg')])[1]</value>
+   </webElementProperties>
+</WebElementEntity>

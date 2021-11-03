@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>annualPackageGrid</name>
+   <tag></tag>
+   <elementGuidId>59f04b94-9ba3-4d9c-9cc7-dd1e4a33026e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[@data-classname=&quot;content-white-box&quot;])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[@data-classname=&quot;content-white-box&quot;])[2]</value>
+   </webElementProperties>
+</WebElementEntity>

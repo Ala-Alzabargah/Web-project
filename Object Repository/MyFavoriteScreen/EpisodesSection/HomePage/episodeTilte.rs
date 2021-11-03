@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>episodeTilte</name>
+   <tag></tag>
+   <elementGuidId>5e44349e-5325-4e17-982a-3203a8b80dce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//h1[@class='_3HCf9x5hsOGEvHt8fhHmac'])</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//h1[@class='_3HCf9x5hsOGEvHt8fhHmac'])</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>returnToPreviousStepicon</name>
+   <tag></tag>
+   <elementGuidId>67f1ebac-487c-456b-b7da-62615c4f2260</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//img[@src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij4KICAgIDxnIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCI+CiAgICAgICAgPGc+CiAgICAgICAgICAgIDxnPgogICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgMEgyNFYyNEgweiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTQ0MCAtNDM3KSB0cmFuc2xhdGUoNDQwIDQzNykiLz4KICAgICAgICAgICAgICAgIDxwYXRoIGZpbGw9IiMwQzkiIGQ9Ik04LjcwNyA3LjI5M2MuMzkuMzkuMzkgMS4wMjQgMCAxLjQxNEw2LjQxNCAxMUgyMGMuNTEzIDAgLjkzNi4zODYuOTkzLjg4M0wyMSAxMmMwIC41NTItLjQ0OCAxLTEgMUg2LjQxNGwyLjI5MyAyLjI5M2MuMzkuMzkuMzkgMS4wMjQgMCAxLjQxNC0uMzkuMzktMS4wMjQuMzktMS40MTQgMGwtNC00Yy0uMzktLjM5LS4zOS0xLjAyNCAwLTEuNDE0bDQtNGMuMzktLjM5IDEuMDI0LS4zOSAxLjQxNCAweiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTQ0MCAtNDM3KSB0cmFuc2xhdGUoNDQwIDQzNykiLz4KICAgICAgICAgICAgPC9nPgogICAgICAgIDwvZz4KICAgIDwvZz4KPC9zdmc+Cg==']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//img[@src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij4KICAgIDxnIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCI+CiAgICAgICAgPGc+CiAgICAgICAgICAgIDxnPgogICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgMEgyNFYyNEgweiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTQ0MCAtNDM3KSB0cmFuc2xhdGUoNDQwIDQzNykiLz4KICAgICAgICAgICAgICAgIDxwYXRoIGZpbGw9IiMwQzkiIGQ9Ik04LjcwNyA3LjI5M2MuMzkuMzkuMzkgMS4wMjQgMCAxLjQxNEw2LjQxNCAxMUgyMGMuNTEzIDAgLjkzNi4zODYuOTkzLjg4M0wyMSAxMmMwIC41NTItLjQ0OCAxLTEgMUg2LjQxNGwyLjI5MyAyLjI5M2MuMzkuMzkuMzkgMS4wMjQgMCAxLjQxNC0uMzkuMzktMS4wMjQuMzktMS40MTQgMGwtNC00Yy0uMzktLjM5LS4zOS0xLjAyNCAwLTEuNDE0bDQtNGMuMzktLjM5IDEuMDI0LS4zOSAxLjQxNCAweiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTQ0MCAtNDM3KSB0cmFuc2xhdGUoNDQwIDQzNykiLz4KICAgICAgICAgICAgPC9nPgogICAgICAgIDwvZz4KICAgIDwvZz4KPC9zdmc+Cg==']</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>sub-tryShahidVIPButton</name>
+   <tag></tag>
+   <elementGuidId>851af156-4bf2-4fe5-99cd-c2abe686761b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[contains(@class,&quot;sharedViews_buttonContainer__&quot;)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[contains(@class,&quot;sharedViews_buttonContainer__&quot;)]</value>
+   </webElementProperties>
+</WebElementEntity>

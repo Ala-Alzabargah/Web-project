@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>muteButton</name>
+   <tag></tag>
+   <elementGuidId>efe7eccf-16b8-4faa-ab43-4d5f6be0dbd6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>((//button[@type='button'])[3]//span[text()='Mute'])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>((//button[@type='button'])[3]//span[text()='Mute'])[1]</value>
+   </webElementProperties>
+</WebElementEntity>

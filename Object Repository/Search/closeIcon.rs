@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>closeIcon</name>
+   <tag></tag>
+   <elementGuidId>2f791b7f-8c96-4ac0-a6a8-c5a2164a2c1a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//img[contains(@src,&quot;data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij4KICAgIDxnIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCI+CiAgICAgICAgPHBhdGggZD0iTTAgMGgyNHYyNEgweiIvPgogICAgICAgIDxwYXRoIGZpbGw9IiNGRkYiIGQ9Ik0xMiAxYzYuMDc1IDAgMTEgNC45MjUgMTEgMTFzLTQuOTI1IDExLTExIDExUzEgMTguMDc1IDEgMTIgNS45MjUgMSAxMiAxek03LjI5MyA3LjI5M2ExIDEgMCAwIDAgMCAxLjQxNEwxMC41ODUgMTJsLTMuMjkyIDMuMjkzYTEgMSAwIDAgMC0uMDgzIDEuMzJsLjA4My4wOTRhMSAxIDAgMCAwIDEuNDE0IDBMMTIgMTMuNDE1bDMuMjkzIDMuMjkyYTEgMSAwIDAgMCAxLjQxNC0xLjQxNEwxMy40MTUgMTJsMy4yOTItMy4yOTNhMSAxIDAgMCAwIC4wODMtMS4zMmwtLjA4My0uMDk0YTEgMSAwIDAgMC0xLjQxNCAwTDEyIDEwLjU4NSA4LjcwNyA3LjI5M2ExIDEgMCAwIDAtMS40MTQgMHoiLz4KICAgIDwvZz4KPC9zdmc+Cg==&quot;)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//img[contains(@src,&quot;data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij4KICAgIDxnIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCI+CiAgICAgICAgPHBhdGggZD0iTTAgMGgyNHYyNEgweiIvPgogICAgICAgIDxwYXRoIGZpbGw9IiNGRkYiIGQ9Ik0xMiAxYzYuMDc1IDAgMTEgNC45MjUgMTEgMTFzLTQuOTI1IDExLTExIDExUzEgMTguMDc1IDEgMTIgNS45MjUgMSAxMiAxek03LjI5MyA3LjI5M2ExIDEgMCAwIDAgMCAxLjQxNEwxMC41ODUgMTJsLTMuMjkyIDMuMjkzYTEgMSAwIDAgMC0uMDgzIDEuMzJsLjA4My4wOTRhMSAxIDAgMCAwIDEuNDE0IDBMMTIgMTMuNDE1bDMuMjkzIDMuMjkyYTEgMSAwIDAgMCAxLjQxNC0xLjQxNEwxMy40MTUgMTJsMy4yOTItMy4yOTNhMSAxIDAgMCAwIC4wODMtMS4zMmwtLjA4My0uMDk0YTEgMSAwIDAgMC0xLjQxNCAwTDEyIDEwLjU4NSA4LjcwNyA3LjI5M2ExIDEgMCAwIDAtMS40MTQgMHoiLz4KICAgIDwvZz4KPC9zdmc+Cg==&quot;)]</value>
+   </webElementProperties>
+</WebElementEntity>

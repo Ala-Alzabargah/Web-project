@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>favoriteButton</name>
+   <tag></tag>
+   <elementGuidId>b266796c-920e-4e3d-84d3-c7b624da1382</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;appRoot&quot;]//div[3]/div/div/a/div/div[1]/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;appRoot&quot;]//div[3]/div/div/a/div/div[1]/img</value>
+   </webElementProperties>
+</WebElementEntity>

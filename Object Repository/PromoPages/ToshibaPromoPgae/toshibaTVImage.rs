@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>toshibaTVImage</name>
+   <tag></tag>
+   <elementGuidId>128bbb2d-c149-4ee8-a4dc-35ee9957bfdc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//img[@src='https://static.s3.shahid.mbc.net/promo-pages/promos/toshiba/img/bitmap.png']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//img[@src='https://static.s3.shahid.mbc.net/promo-pages/promos/toshiba/img/bitmap.png']</value>
+   </webElementProperties>
+</WebElementEntity>

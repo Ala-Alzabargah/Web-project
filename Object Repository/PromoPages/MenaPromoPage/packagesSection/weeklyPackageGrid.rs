@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description>(//div[@class='_26nmETSoDyF7gR-5cZ3dXe'])[3]</description>
+   <name>weeklyPackageGrid</name>
+   <tag></tag>
+   <elementGuidId>296003ea-0684-4d3b-b1ac-b47312eb8641</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[@class='_26nmETSoDyF7gR-5cZ3dXe'])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[@class='_26nmETSoDyF7gR-5cZ3dXe'])[3]</value>
+   </webElementProperties>
+</WebElementEntity>

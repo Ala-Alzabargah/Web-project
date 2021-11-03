@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>appleTVIcon</name>
+   <tag></tag>
+   <elementGuidId>f75dcdba-c647-41b3-8e85-18392978a11c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//img[contains(@src,'IOStv-devices-icon.svg')])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//img[contains(@src,'IOStv-devices-icon.svg')])[1]</value>
+   </webElementProperties>
+</WebElementEntity>

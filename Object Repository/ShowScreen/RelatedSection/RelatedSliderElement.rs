@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>relatedSliderElement</name>
+   <tag></tag>
+   <elementGuidId>9a01b070-c397-4ada-b02a-b04a8a258057</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//a[contains(@class,'LandscapeItem_overlayGrad')])</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//a[contains(@class,'LandscapeItem_overlayGrad')])</value>
+   </webElementProperties>
+</WebElementEntity>

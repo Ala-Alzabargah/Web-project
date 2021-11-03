@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>sub-tryShahidVIPButton</name>
+   <tag></tag>
+   <elementGuidId>8f23f61a-6555-436d-a08b-f33542665b13</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@class='_26nmETSoDyF7gR-5cZ3dXe']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class='_26nmETSoDyF7gR-5cZ3dXe']</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>offlineIcon</name>
+   <tag></tag>
+   <elementGuidId>d26dcb5d-7f30-43d3-9ea2-f535a2c6c776</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//img[contains(@alt,&quot;offline_widget_header&quot;)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//img[contains(@alt,&quot;offline_widget_header&quot;)]</value>
+   </webElementProperties>
+</WebElementEntity>

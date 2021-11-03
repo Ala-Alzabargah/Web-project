@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>moreButton</name>
+   <tag></tag>
+   <elementGuidId>f3402f59-01e0-4bfd-b7b8-deab5bc34627</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;appRoot&quot;]/div/div/div[1]/div/div/div/div/div[2]/div/div[2]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;appRoot&quot;]/div/div/div[1]/div/div/div/div/div[2]/div/div[2]/button</value>
+   </webElementProperties>
+</WebElementEntity>

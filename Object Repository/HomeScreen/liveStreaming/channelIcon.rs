@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>channelIcon</name>
+   <tag></tag>
+   <elementGuidId>41d879f4-7534-4fad-8b1f-ab3807b9a06c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//a[contains(@class,'PlayerPlaylistItem_mainContainerStyle')])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//a[contains(@class,'PlayerPlaylistItem_mainContainerStyle')])[2]</value>
+   </webElementProperties>
+</WebElementEntity>

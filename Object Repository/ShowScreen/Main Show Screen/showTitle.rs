@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>showTitle</name>
+   <tag></tag>
+   <elementGuidId>a65a840e-a91e-42fa-876f-ec12e652bc34</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//a[@class='_2Q8UFmGhGYQWHXsTC-QSi8'])[23]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//a[@class='_2Q8UFmGhGYQWHXsTC-QSi8'])[23]</value>
+   </webElementProperties>
+</WebElementEntity>

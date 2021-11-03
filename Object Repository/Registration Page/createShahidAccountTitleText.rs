@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>createShahidAccountTitleText</name>
+   <tag></tag>
+   <elementGuidId>ed80f8f0-f141-47fa-afd8-b5f6057cc947</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//h1[contains(text(),'إنشاء')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//h1[contains(text(),'إنشاء')]</value>
+   </webElementProperties>
+</WebElementEntity>

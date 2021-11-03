@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>signUpButton</name>
+   <tag></tag>
+   <elementGuidId>4ab0ce08-1f75-46f4-958f-50e70eee198e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[contains(@class,&quot;_buttonStyles_PrimaryButton&quot;)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[contains(@class,&quot;_buttonStyles_PrimaryButton&quot;)]</value>
+   </webElementProperties>
+</WebElementEntity>

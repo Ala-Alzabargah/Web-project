@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>freeUncheck</name>
+   <tag></tag>
+   <elementGuidId>2306349b-2fdb-4b32-a1f1-4330c1827929</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//img[@src='/static/fonts/1be624b7e735db6ea7c64cf867a299e9.svg']</value>
+   </webElementProperties>
+</WebElementEntity>

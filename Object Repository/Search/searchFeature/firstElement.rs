@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>firstElement</name>
+   <tag></tag>
+   <elementGuidId>0232b12e-226b-422d-b3a1-be2f105c796a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[contains(@class,&quot;LandscapeItem_thumbnail&quot;)])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[contains(@class,&quot;LandscapeItem_thumbnail&quot;)])[1]</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>emptyPassword</name>
+   <tag></tag>
+   <elementGuidId>6a56c680-f837-45b5-914b-154d242e0c7b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;shahid-widget&quot;]/div/app-login/div/div[2]/div/app-normal-login/div/form/div[4]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;shahid-widget&quot;]/div/app-login/div/div[2]/div/app-normal-login/div/form/div[4]/div</value>
+   </webElementProperties>
+</WebElementEntity>

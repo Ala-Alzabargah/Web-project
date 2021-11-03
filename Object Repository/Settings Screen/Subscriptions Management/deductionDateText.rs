@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>deductionDateText</name>
+   <tag></tag>
+   <elementGuidId>b965f297-d6c8-4cbb-aa2b-4862f6b8fee3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[contains(@class,&quot;ManageSubscriptionInfo_expire-date__&quot;)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[contains(@class,&quot;ManageSubscriptionInfo_expire-date__&quot;)]</value>
+   </webElementProperties>
+</WebElementEntity>

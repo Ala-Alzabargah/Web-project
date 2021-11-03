@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>editButton</name>
+   <tag></tag>
+   <elementGuidId>f90e1b0d-f213-4cb4-9f93-52bdf8a3e531</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//img[contains(@src,'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij4KICAgIDxnIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCI+CiAgICAgICAgPHBhdGggZD0iTTAgMGgyNHYyNEgweiIvPgogICAgICAgIDxwYXRoIGZpbGw9IiNBM0FGQzIiIGQ9Ik0xNy43MzcgMy4xNzdsMy4wODYgMy4wODZhMS43NSAxLjc1IDAgMCAxIDAgMi40NzRsLTEyLjUgMTIuNWExLjc1IDEuNzUgMCAwIDEtMS4yMzcuNTEzSDNhLjc1Ljc1IDAgMCAxLS43NS0uNzV2LTQuNWEuNzUuNzUgMCAwIDEgLjIyLS41M0wxNS4yNjMgMy4xNzdhMS43NSAxLjc1IDAgMCAxIDIuNDc0IDB6TTEzLjUgNy4wNmwtOS43NSA5Ljc1djMuNDM5aDMuMzM2YS4yNS4yNSAwIDAgMCAuMTc3LS4wNzNsOS42NzYtOS42NzdMMTMuNSA3LjA2MXptMi44MjMtMi44MjRMMTQuNTYxIDYgMTggOS40NGwxLjc2My0xLjc2M2EuMjUuMjUgMCAwIDAgMC0uMzU0bC0zLjA4Ni0zLjA4NmEuMjUuMjUgMCAwIDAtLjM1NCAweiIvPgogICAgPC9nPgo8L3N2Zz4K')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij4KICAgIDxnIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCI+CiAgICAgICAgPHBhdGggZD0iTTAgMGgyNHYyNEgweiIvPgogICAgICAgIDxwYXRoIGZpbGw9IiNBM0FGQzIiIGQ9Ik0xNy43MzcgMy4xNzdsMy4wODYgMy4wODZhMS43NSAxLjc1IDAgMCAxIDAgMi40NzRsLTEyLjUgMTIuNWExLjc1IDEuNzUgMCAwIDEtMS4yMzcuNTEzSDNhLjc1Ljc1IDAgMCAxLS43NS0uNzV2LTQuNWEuNzUuNzUgMCAwIDEgLjIyLS41M0wxNS4yNjMgMy4xNzdhMS43NSAxLjc1IDAgMCAxIDIuNDc0IDB6TTEzLjUgNy4wNmwtOS43NSA5Ljc1djMuNDM5aDMuMzM2YS4yNS4yNSAwIDAgMCAuMTc3LS4wNzNsOS42NzYtOS42NzdMMTMuNSA3LjA2MXptMi44MjMtMi44MjRMMTQuNTYxIDYgMTggOS40NGwxLjc2My0xLjc2M2EuMjUuMjUgMCAwIDAgMC0uMzU0bC0zLjA4Ni0zLjA4NmEuMjUuMjUgMCAwIDAtLjM1NCAweiIvPgogICAgPC9nPgo8L3N2Zz4K')]</value>
+   </webElementProperties>
+</WebElementEntity>

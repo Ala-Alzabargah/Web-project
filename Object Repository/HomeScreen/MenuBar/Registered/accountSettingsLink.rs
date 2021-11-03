@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>accountSettingsLink</name>
+   <tag></tag>
+   <elementGuidId>1dcd81e3-0fcb-47c6-a0da-5936f0b1e6ab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//a[contains(@href,&quot;/ar/widgets/settings&quot;)])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//a[contains(@href,&quot;/ar/widgets/settings&quot;)])[1]</value>
+   </webElementProperties>
+</WebElementEntity>

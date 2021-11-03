@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>updateKidsUserProfileEdit</name>
+   <tag></tag>
+   <elementGuidId>3c129676-8e8c-47a7-8b0a-7815ef9aae11</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[contains(@class,&quot;profile-list&quot;)]//following::div[contains(@class,&quot;profile-item&quot;)][2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[contains(@class,&quot;profile-list&quot;)]//following::div[contains(@class,&quot;profile-item&quot;)][2]</value>
+   </webElementProperties>
+</WebElementEntity>

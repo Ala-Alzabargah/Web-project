@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>startFreeTrial</name>
+   <tag></tag>
+   <elementGuidId>6b932b4f-3dbc-44e0-a2ef-664cf2b075ba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[contains(@href,&quot;/en/widgets/subscription?widget=subscriptions&amp;redirect=&quot;)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[contains(@href,&quot;/en/widgets/subscription?widget=subscriptions&amp;redirect=&quot;)]</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>monthlyNetworkOperatorIcon</name>
+   <tag></tag>
+   <elementGuidId>dd32b279-5a8f-497d-ad3c-0f13ae32a762</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[@data-classname=&quot;logo-payment-description&quot;])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[@data-classname=&quot;logo-payment-description&quot;])[2]</value>
+   </webElementProperties>
+</WebElementEntity>

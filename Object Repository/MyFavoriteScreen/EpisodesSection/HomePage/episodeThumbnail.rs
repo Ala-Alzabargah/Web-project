@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>episodeThumbnail</name>
+   <tag></tag>
+   <elementGuidId>d56237a5-6cc5-4bf5-9dc4-33e29a4eb1d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[@class='NoMRszwkqIWHwcBlDOLT-'])</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[@class='NoMRszwkqIWHwcBlDOLT-'])</value>
+   </webElementProperties>
+</WebElementEntity>

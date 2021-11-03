@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>whatsappIcon</name>
+   <tag></tag>
+   <elementGuidId>4d64755e-73fd-4eaf-8053-19fabdac2da3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[@class='_2fu--mctlKKWccr0vDPBOq'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[@class='_2fu--mctlKKWccr0vDPBOq'])[2]</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>shahidHomeLink</name>
+   <tag></tag>
+   <elementGuidId>f28d1b60-fb25-4cfa-8801-2a7f07a79556</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;htmlContaner&quot;]/div/footer/div/ul/li[1]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;htmlContaner&quot;]/div/footer/div/ul/li[1]/a</value>
+   </webElementProperties>
+</WebElementEntity>

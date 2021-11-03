@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>spotifyContactUSText</name>
+   <tag></tag>
+   <elementGuidId>59f09ce9-6fe2-45fa-a356-58ae34e477f2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class='_1JWy5oaC08tuyZo0nDZ5Qy']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class='_1JWy5oaC08tuyZo0nDZ5Qy']</value>
+   </webElementProperties>
+</WebElementEntity>

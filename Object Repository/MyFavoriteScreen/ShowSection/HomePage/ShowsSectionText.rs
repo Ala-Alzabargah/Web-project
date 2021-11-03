@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ShowsSectionText</name>
+   <tag></tag>
+   <elementGuidId>f601bd96-afd8-4198-8b47-57e1d64eefa4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[@class='_1xsDnV659EkxNBCk-n2iFE'])</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[@class='_1xsDnV659EkxNBCk-n2iFE'])</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ShowTitleFavPage</name>
+   <tag></tag>
+   <elementGuidId>e2de4b1f-7386-41fa-bd79-12ecc2e21ffb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//h1[@class='_3HCf9x5hsOGEvHt8fhHmac'])</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//h1[@class='_3HCf9x5hsOGEvHt8fhHmac'])</value>
+   </webElementProperties>
+</WebElementEntity>

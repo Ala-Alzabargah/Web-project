@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ListItems</name>
+   <tag></tag>
+   <elementGuidId>321904db-ac65-41e9-a3f0-33182d377775</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//li[@class='_1ndiA-3Gch8J8-Ww4Sw9Zg']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//li[@class='_1ndiA-3Gch8J8-Ww4Sw9Zg'])[1]</value>
+   </webElementProperties>
+</WebElementEntity>

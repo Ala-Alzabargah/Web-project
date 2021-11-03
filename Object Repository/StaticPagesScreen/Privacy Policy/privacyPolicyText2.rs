@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>privacyPolicyText2</name>
+   <tag></tag>
+   <elementGuidId>17f88b78-d346-4bd1-b8dd-49850bedcf85</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/app-root/static-pages/div/div[2]/div/div/div/static-privacy/div/p[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/app-root/static-pages/div/div[2]/div/div/div/static-privacy/div/p[1]</value>
+   </webElementProperties>
+</WebElementEntity>

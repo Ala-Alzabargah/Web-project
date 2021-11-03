@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>nationalGeographic</name>
+   <tag></tag>
+   <elementGuidId>237da50c-5200-4d3d-bfb8-5a93096fac46</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[contains(@href,'/ar/series/Nat-Geo-Series?genre=9789')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[contains(@href,'/ar/series/Nat-Geo-Series?genre=9789')]</value>
+   </webElementProperties>
+</WebElementEntity>
